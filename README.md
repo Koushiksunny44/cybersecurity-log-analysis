@@ -66,3 +66,7 @@ The project generates:
 
 ## Author
 Surya Koushik Palla
+
+## Visualization
+
+![Failed Login Chart](images/failed_login_chart.png)
