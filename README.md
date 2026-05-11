@@ -65,4 +65,4 @@ The project generates:
 - Real-time monitoring
 
 ## Author
-Koushik Sunny
+Surya Koushik Palla
